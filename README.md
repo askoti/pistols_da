@@ -45,23 +45,40 @@ This project includes multiple insightful visualizations:
 
 ## ⚡ How to Run
 
-1. Clone the repository:  
+Clone the repository and navigate to the project folder:
+
+```bash
 git clone https://github.com/askoti/pistols_da.git
-Navigate to the project folder:
 cd pistols_da
+```
 Install dependencies:
+```bash
 pip install pandas matplotlib
-Run the app:
+```
+
+Run the application:
+```bash
 python app.py
+```
+
 Follow the prompts to view different visualizations.
-🎯 Purpose
+
+---
+
+## 🎯 Purpose
+
 This project demonstrates:
-Data cleaning and aggregation with Pandas
-Creating visual insights with Matplotlib
-Presenting data analysis in a structured, professional manner
-It’s a clear example of my ability to handle Python-based data analysis projects from start to finish.
-✅ Skills Highlighted
-Python programming
-Data analysis & manipulation
-Data visualization & storytelling
-Problem-solving with real-world datasets
+- Data cleaning and aggregation with Pandas
+- Creating visual insights with Matplotlib
+- Presenting data analysis in a structured, professional manner
+- It’s a clear example of my ability to handle Python-based data analysis projects from start to finish.
+
+---
+
+## ✅ Skills Highlighted
+
+- Python programming
+- Data analysis & manipulation
+- Data visualization & storytelling
+- Problem-solving with real-world datasets
+
