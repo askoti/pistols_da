@@ -23,21 +23,25 @@ This project includes multiple insightful visualizations:
 
 1. **Oldest Pistols**  
    Line chart showing the 5 oldest pistols in the dataset.
+   
    ![Oldest Pistols](oldest.png)
 
 
 3. **Pistols Cartridge Distribution**  
    Pie chart displaying the most common pistol cartridges.
+   
    ![Pistols Cartridge](cartridge.png)
 
 
 5. **Top Pistol-Producing Countries**  
    Pie chart showing which countries produced the most pistols.
+   
    ![Countries](countries.png)
 
 
 7. **Manufacturers with Most Pistol Types**  
    Bar chart highlighting manufacturers with the largest number of pistol models.
+   
    ![Manufacturers](types.png)
 
 
