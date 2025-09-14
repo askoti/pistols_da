@@ -22,7 +22,7 @@ The project uses `ListOfPistols.csv`, which contains information about various p
 This project includes multiple insightful visualizations:
 
 1. **Oldest Pistols**  
-   Line chart showing the 7 oldest pistols in the dataset.
+   Line chart showing the 6 oldest pistols in the dataset.
 
 2. **Pistols Cartridge Distribution**  
    Pie chart displaying the most common pistol cartridges.
