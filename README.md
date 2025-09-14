@@ -22,16 +22,24 @@ The project uses `ListOfPistols.csv`, which contains information about various p
 This project includes multiple insightful visualizations:
 
 1. **Oldest Pistols**  
-   Line chart showing the 6 oldest pistols in the dataset.
+   Line chart showing the 5 oldest pistols in the dataset.
+   ![Oldest Pistols](oldest.png)
 
-2. **Pistols Cartridge Distribution**  
+
+3. **Pistols Cartridge Distribution**  
    Pie chart displaying the most common pistol cartridges.
+   ![Pistols Cartridge](cartridge.png)
 
-3. **Top Pistol-Producing Countries**  
+
+5. **Top Pistol-Producing Countries**  
    Pie chart showing which countries produced the most pistols.
+   ![Countries](countries.png)
 
-4. **Manufacturers with Most Pistol Types**  
+
+7. **Manufacturers with Most Pistol Types**  
    Bar chart highlighting manufacturers with the largest number of pistol models.
+   ![Manufacturers](types.png)
+
 
 ---
 
@@ -82,3 +90,4 @@ This project demonstrates:
 - Data visualization & storytelling
 - Problem-solving with real-world datasets
 
+---
