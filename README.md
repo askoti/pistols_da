@@ -1,4 +1,4 @@
-# Pistols Data Analysis 🧐🔫
+# Pistols Data Analysis 🧐
 
 A Python project showcasing **data analysis and visualization** skills using a dataset of pistols.  
 This project demonstrates how to clean, manipulate, and visualize data using **Pandas** and **Matplotlib**.
